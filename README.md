@@ -1,4 +1,13 @@
-## Hi there 👋
+Hi, I'm Gururaj
+
+Cybersecurity Professional certified in Ethical Hacking and Digital Forensics
+
+I have an overall experience of 5 years in Cybersecurity SOC with expertise in Incident Response, Threat Hunting and Vulnerability Management.
+
+I'm currently learning AI Security and Security Automation.
+
+Career Goal- 
+Want to build a deeper expertise in AI Security | AI Access and Management
 
 <!--
 **gururaj-byadagi/gururaj-byadagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
